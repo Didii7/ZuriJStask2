@@ -22,4 +22,4 @@ else {
     result = number1 / number2; // use / (division) operator to divide two numbers
 }  
 // display the result of the Calculator  
-window.alert(" Result is" + result);  
+window.alert(" Result is" + result); 
